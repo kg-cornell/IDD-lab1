@@ -15,3 +15,7 @@ Guitar learners, who seek flexibility and convenience, resort to YouTube tutoria
 Introducing TuneMatcher! It not only shows you what notes to play at what point in time but also gives live feedback by matching the tunes that the guitar learner plays with the original tune.
 
 <img src="/imgs/TuneMatcher Envi.png" alt="system diagram" width="1080"/>
+
+# Act out the Interaction
+
+The interaction was enacted by using Tinkerbelle on laptop and phone. The phone was held by proxy guitar coach. The porxy coach turned the light green and played happy tune when the tune played on guitar was correct, and turned the light red and played unhappy tune when the tune on the guitar was incorrect.
