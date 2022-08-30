@@ -26,4 +26,5 @@ A prototype was created using Matchering 2.0 GitHub code. The code takes in 2 in
 
 # Record the interaction
 
-https://youtu.be/QzDdfrWDlvg
+[![Staging Interaction Video](https://github.com/AdamYuzhenZhang/IDD-lab1/imgs/Interaction Recording.png)](https://youtu.be/QzDdfrWDlvg)
+
