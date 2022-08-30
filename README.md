@@ -14,4 +14,4 @@ Guitar learners, who seek flexibility and convenience, resort to YouTube tutoria
 
 Introducing TuneMatcher! It not only shows you what notes to play at what point in time but also gives live feedback by matching the tunes that the guitar learner plays with the original tune.
 
-<img src="/imgs/TuneMatcher Envi.png" alt="system diagram" width="720"/>
+<img src="/imgs/TuneMatcher Envi.png" alt="system diagram" width="1080"/>
