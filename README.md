@@ -19,3 +19,9 @@ Introducing TuneMatcher! It not only shows you what notes to play at what point 
 # Act out the Interaction
 
 The interaction was enacted by using Tinkerbelle on laptop and phone. The phone was held by proxy guitar coach. The porxy coach turned the light green and played happy tune when the tune played on guitar was correct, and turned the light red and played unhappy tune when the tune on the guitar was incorrect.
+
+# Prototype
+
+A prototype was created using Matchering 2.0 GitHub code. The code takes in 2 inputs - tune played by the guitar learner and original tune - and gives an output of whether the both the tunes match.
+
+# Record the interaction
