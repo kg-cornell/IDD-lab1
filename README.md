@@ -26,7 +26,5 @@ A prototype was created using Matchering 2.0 GitHub code. The code takes in 2 in
 
 # Record the interaction
 
-[![Watch the video](https://img.youtube.com/vi/QzDdfrWDlvg/maxresdefault.jpg)]
-
-([https://youtu.be/QzDdfrWDlvg])
+[![Watch the video](https://img.youtube.com/vi/QzDdfrWDlvg/maxresdefault.jpg)]([https://youtu.be/QzDdfrWDlvg])
 
