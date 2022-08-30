@@ -1,6 +1,6 @@
 # TuneMatcher
 
-TuneMatcher is a simple tool for prototyping interaction to detect whether the user has played the right tune. TuneMatcher takes the user played tune as an input and matches the sound of the tune with the orginal tune from the webserver. If the match is successful, it gives a green light and happy sound output. If the match is unsuccessful, it gives red light and unhappy sound as output.
+TuneMatcher is a simple tool for prototyping interaction to detect whether the user has played the right tune. TuneMatcher takes the user played tune as an input and matches the sound of the tune with the orginal tune from the webserver. If the match is successful, it gives a green light and applause output. If the match is unsuccessful, it gives red light and laugh as output.
 
 # Storyboard
 
@@ -18,7 +18,7 @@ Introducing TuneMatcher! It not only shows you what notes to play at what point 
 
 # Act out the Interaction
 
-The interaction was enacted by using Tinkerbelle on laptop and phone. The phone was held by proxy guitar coach. The porxy coach turned the light green and played happy tune when the tune played on guitar was correct, and turned the light red and played unhappy tune when the tune on the guitar was incorrect.
+The interaction was enacted by using Tinkerbelle on laptop and phone. The phone was held by proxy guitar coach. The porxy coach turned the light green and played applause sound when the tune played on guitar was correct, and turned the light red and played laugh sound when the tune on the guitar was incorrect.
 
 # Prototype
 
