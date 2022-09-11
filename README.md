@@ -55,11 +55,11 @@ A prototype was created using Matchering 2.0 GitHub code. The code takes in 2 in
 
 [![Watch the video](https://github.com/kg-cornell/IDD-lab1/blob/42573797c90765f43768ca1146350e312c2ec560/imgs/Recording.png)](https://www.youtube.com/watch?v=QzDdfrWDlvg)
 
-Iteration-2 (correct interaction)
+Iteration-2 (correct tune)
 
 [![Watch the video](https://github.com/kg-cornell/IDD-lab1/blob/34e571659700372cc7abe7b69f4fa122efcdc40d/imgs/Rec%202.png)](https://youtu.be/K20l5CO8HIo)
 
 
-Iteration-2 (incorrect interaction)
+Iteration-2 (incorrect tune)
 
 [![Watch the video](https://github.com/kg-cornell/IDD-lab1/blob/34e571659700372cc7abe7b69f4fa122efcdc40d/imgs/Red%203.png)](https://youtu.be/QhPgPFhYPPQ)
