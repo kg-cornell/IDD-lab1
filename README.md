@@ -1,4 +1,4 @@
-# TuneMatcher
+# TuneMatcher (Updated the idea with second iteration)
 
 TuneMatcher is a simple tool for prototyping interaction to detect whether the user has played the right tune. TuneMatcher takes the user played tune as an input and matches the sound of the tune with the orginal tune from the webserver. If the match is successful, it gives a green light and applause output. If the match is unsuccessful, it gives red light and laugh as output.
 
